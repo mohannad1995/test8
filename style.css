@@ -1,0 +1,82 @@
+
+html{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.img1{
+    text-align: left;
+    max-width: 3%;
+    margin-left: 10px;
+    border: 1px solid rgb(52, 164, 192)
+}
+.img2{
+    text-align: right;
+    max-width: 3%;
+    margin-left: 90%; 
+    border: 1px solid rgb(52, 164, 192)
+}
+.header h1{
+    color:  rgb(59, 98, 204);
+    margin-left: 10px;
+    font-size: 25px
+}
+.header h2{
+    margin-left: 10px;
+    font-size: 20px;
+    color: rgb(20, 19, 19)
+}
+.line{
+      
+        
+        margin: 2px;
+        background-color: rgb(133, 133, 150);
+        height: 2px;
+        margin-left: 10px;
+        margin-right: 10px
+}
+.title-body h2{
+    text-align: center;
+    color: rgb(59, 98, 204);
+    font-size: 25px
+}
+.dis-body p{
+    margin-left: 10px; 
+    font-size: 18px;
+    color: rgb(32, 31, 31);
+    line-height: 1.4;
+}
+
+table, th, td {
+    border: 1px solid black;
+    text-align: center;
+  }
+  table{
+    border-spacing: 5px;
+    background-color: #f1f1c1;
+    margin-left: 40%;
+    margin-top: 30px;
+  }
+  th, td {
+      color: rgb(17, 16, 16);
+  }
+  .table-body p{
+    margin-left: 10px; 
+    font-size: 18px;
+    color: rgb(32, 31, 31);
+  }
+  .table-body li{
+    margin-left: 10px; 
+    font-size: 18px;
+    color: rgb(32, 31, 31); 
+  }
+  .table-body h2{
+      text-align: center;
+      margin-top: 20px;
+      font-size: 20px;
+      color: rgb(194, 64, 64)
+
+  }
